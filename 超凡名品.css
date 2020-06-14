@@ -2,7 +2,7 @@
 * @Author: HJ
 * @Date:   2020-06-05 22:29:56
 * @Last Modified by:   HJ
-* @Last Modified time: 2020-06-14 00:24:20
+* @Last Modified time: 2020-06-14 11:22:27
 */
 .navigation-top-container1{
 	width: 1200px;
@@ -277,6 +277,11 @@ form{
 	width: 1200px;
 	margin: 0 auto;
 	margin-bottom: 20px;
+}
+
+.bottom span{
+	font-size: 13px;
+	color:  #ababab;
 }
 .bottom ul{
 	float: right;
